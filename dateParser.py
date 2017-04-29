@@ -1,2 +1,1 @@
-import datetime
-print(datetime.__file__)
+print 'Hello, world!'
